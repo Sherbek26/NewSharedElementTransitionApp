@@ -32,8 +32,9 @@ This project showcases the implementation of shared element transitions using Je
 git clone https://github.com/your-repo/shared-element-transition-compose.git
 Open the project in Android Studio and run it on an emulator or device.
 
- ##Video Visualization
-https://github.com/user-attachments/assets/5a9fc185-dcd8-480a-a9e7-1b95f20a8488
+##Video Visualization
+
+ https://github.com/user-attachments/assets/5a9fc185-dcd8-480a-a9e7-1b95f20a8488
 
 
 ##Technologies Used
